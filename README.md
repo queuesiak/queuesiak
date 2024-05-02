@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @queuesiak
 - 👀 I’m interested in Robotics and Electric Vehicles
-- 🌱 I’m currently learning Web Dvelopment using Html & CSS
+- 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on Projects on Arduino, Esp32, Raspberry pie
 - 📫 You can reach me on instagram @karan.px
 
